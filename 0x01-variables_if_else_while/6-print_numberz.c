@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
-* main – Entry point
+* main – Prints number less than ten
 * Return: Always 0 (success)
 */
 int main(void)
